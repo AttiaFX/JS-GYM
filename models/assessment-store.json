@@ -1,0 +1,82 @@
+{
+  "assessmentCollection": [
+    {
+      "id": "54d45d41-6d1a-45e2-9522-a1ab88c69dbf",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "weight": 123.3,
+      "chest": 45,
+      "thigh": 12.5,
+      "upperarm": 23.3,
+      "waist": 32,
+      "hips": 38,
+      "date": "2019-08-28",
+      "trend": "",
+      "comment": ""
+    },
+    {
+      "id": "550069da-836d-41d8-8097-2eba72e3e0fc",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "weight": 124.3,
+      "chest": 45,
+      "thigh": 12,
+      "upperarm": 23.3,
+      "waist": 31,
+      "hips": 36,
+      "date": "2019-08-25",
+      "trend": "",
+      "comment": ""
+    },
+    {
+      "id": "06f43594-c86a-452d-a1d5-835dc3c00bcf",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "weight": 100,
+      "chest": "100",
+      "upperarm": "60",
+      "thigh": "100",
+      "waist": "100",
+      "hips": "100",
+      "date": "2019-08-25",
+      "trend": "",
+      "comment": ""
+    },
+    {
+      "id": "550069da-836d-41d8-8097-2eba72e3e0fc",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "weight": 111.3,
+      "chest": 11,
+      "thigh": 11,
+      "upperarm": 11,
+      "waist": 11,
+      "hips": 11,
+      "date": "2019-08-20",
+      "trend": "",
+      "comment": ""
+    },
+    {
+      "id": "6f987d28-5107-47ef-a62f-db8153b6b3d8",
+      "userid": "3a315107-0b69-4d16-ad6d-ab915071bf44",
+      "weight": "76",
+      "chest": "59",
+      "upperarm": "60",
+      "thigh": "17",
+      "waist": "30",
+      "hips": "30",
+      "date": "2019-08-25",
+      "trend": "",
+      "comment": ""
+    },
+    {
+      "id": "2d9b86b7-f4db-4213-af2c-f128ff268602",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "weight": "100",
+      "chest": "100",
+      "upperarm": "100",
+      "thigh": "100",
+      "waist": "100",
+      "hips": "100",
+      "date": "2019-09-01T12:36:19.979Z",
+      "trend": "",
+      "comment": ""
+    }
+  ]
+}
