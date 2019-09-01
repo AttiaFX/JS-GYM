@@ -3,7 +3,7 @@ const { combine, timestamp, label, prettyPrint } = format;
 
 const logger = createLogger({
   format: combine(
-      label({ label: "Playlist" }),
+      label({ label: "Assessment" }),
       //      timestamp(),
       prettyPrint()
   ),
