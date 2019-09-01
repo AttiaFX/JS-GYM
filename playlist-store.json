@@ -1,0 +1,30 @@
+{
+  "playlistCollection": [
+    {
+      "id": "54d45d41-6d1a-45e2-9522-a1ab88c69dbf",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "title": "qeertwert",
+      "songs": [
+        {
+          "id": "40f76a56-2401-4b48-9ba9-39f4a1e1da34",
+          "title": "werg",
+          "artist": "werg",
+          "duration": 0
+        },
+        {
+          "id": "1df9fe42-59a6-4da3-920e-ad2536481041",
+          "title": "werg",
+          "artist": "werg",
+          "duration": 0
+        }
+      ],
+      "duration": 0
+    },
+    {
+      "id": "550069da-836d-41d8-8097-2eba72e3e0fc",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "title": "erg",
+      "songs": []
+    }
+  ]
+}
